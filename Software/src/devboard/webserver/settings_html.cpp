@@ -2444,7 +2444,6 @@ String qnhck_zero_text(uint16_t zero_mV) {
 
         )rawliteral" UUGP_SETTINGS_HTML R"rawliteral(
 
-        <label>Shunt: </label><select name='shunttype'>
         <label>Measurement: </label><select name='shunttype'>
         %SHUNTTYPE%
         </select>
